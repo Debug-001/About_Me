@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Sharma</h1>
+<h1 align="center">MERN Stack Developer</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debug-001" alt="debug-001" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [ombhatt.in](ombhatt.in)
